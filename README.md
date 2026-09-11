@@ -239,3 +239,6 @@ This repository serves as the official landing page for World Supremacy. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of World Supremacy today!**
+
+---
+**Last updated:** 2026-09-11 12:30:19 UTC
